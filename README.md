@@ -1,4 +1,4 @@
-# basic snake
+# Not basic snoke
 Snake Game is a classic arcade game where players control a growing snake to eat food and avoid collisions with walls and its own tail. The game offers single-player mode with increasing difficulty levels.
 # How to install ? 
 1. Install Code Blocks.
@@ -9,13 +9,13 @@ Snake Game is a classic arcade game where players control a growing snake to eat
 # Features
 Snake Movement: Control the direction of the snake using arrow keys.
 Eating Mechanism: Guide the snake to eat food to grow longer.
-Game End: The game ends if the snake collides with the walls or itself.
+Game End: The game ends if the snake collides with the walls,barriers or itself.
 Sound Effects: Engage with various sound effects like eating food, wall collision, and game over.
 # How to Play
 Use the arrow keys to control the snake's direction.
 Guide the snake to eat the food to grow longer and increase your score.
-Avoid collisions with the walls and the snake's body.
-The game ends if the snake hits the walls or itself.
+Avoid collisions with the walls or barriers and the snake's body.
+The game ends if the snake hits the walls, barriers or itself.
 # Setup Instructions
 Ensure you have SDL, SDL_image, and SDL_mixer libraries installed.
 Compile the code with the necessary dependencies.
@@ -29,3 +29,4 @@ Nguyen Thanh Tung - 23021714
 # Reference
 SDL2 documents (https://docs.google.com/document/d/1FZ3jTqHxtyZznNWiJmmve0zYu_aSliUqLP2OsMcdehQ/edit#heading=h.wvku2j637e3g)
 Lazy foo(https://lazyfoo.net/tutorials/SDL/)
+Code reference source(https://www.youtube.com/watch?v=q1WzniyeGTU&list=PLR7NDiX0QsfTIEQUeYCfc2MyCquX0ig9V)
